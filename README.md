@@ -1,5 +1,5 @@
 
-# 1 Data_challengec_on_kernel_methods
+# 1 Data_challenge_on_kernel_methods
 
 The motivation of this data-challenge project is to practice what we did in the Kernel Methods AMMI 2020 for machine learning.
 The way we do the practice is to classify a data set about transcription factor. During this classification task we should predict whether a DNA sequence region 

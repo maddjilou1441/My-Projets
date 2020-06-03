@@ -21,4 +21,3 @@ bound or unbound.
 In this challenge, we will work with three datasets corresponding to three different TFs.
 For that, we have been provided 2000 data sample data labeled to teach our model which should be able to classifies as possible as 1000 sample unlabled.
 
-<font color='green'> alhamdoulila dieureudieuf Borom Touba

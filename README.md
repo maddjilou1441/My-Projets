@@ -19,4 +19,4 @@ Transcription factors (TFs) are regulatory proteins that bind specific sequence 
 Genome-wide protein-DNA binding maps can be profiled using some experimental techniques and thus all genomics can be classified into two classes for a TF of interest: 
 bound or unbound.
 In this challenge, we will work with three datasets corresponding to three different TFs.
-For that, we have been provided 2000 data sample data labeled to learn our model which should be able to classifies as possible as 1000 sample unlabled.
+For that, we have been provided 2000 data sample data labeled to teach our model which should be able to classifies as possible as 1000 sample unlabled.
